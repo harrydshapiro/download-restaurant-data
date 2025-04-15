@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "download-images": "node download-images.js"
   },
   "keywords": [],
   "author": "",

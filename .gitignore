@@ -136,4 +136,4 @@ dist
 .pnp.*
 
 image-urls.csv
-output
+output/*
